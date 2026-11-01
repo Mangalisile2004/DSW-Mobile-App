@@ -61,11 +61,11 @@
         }
       ]
     ],
+    "owner": "mangii",
     "extra": {
       "eas": {
-        "projectId": "2dd22ad1-2569-4755-ad42-a4ba222b3284"
+        "projectId": "c9dd3648-8ff7-417b-835d-c71e4f9aab50"
       }
-    },
-    "owner": "cebolakhe"
+    }
   }
 }
